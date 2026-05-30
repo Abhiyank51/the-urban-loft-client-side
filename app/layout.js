@@ -12,7 +12,7 @@ const josefin = Josefin_Sans({
 export const metadata = {
   title: {
     template: "%s | The Urban Loft",
-    default: "Welcome | The Urban Loft",
+    default: "Welcome | The Urban Loft ",
   },
   description:
     "Luxurious cabin hotel, located in the heart of the Indian rainforests, surrounded by beautiful mountains, waterfalls and dark forests",
