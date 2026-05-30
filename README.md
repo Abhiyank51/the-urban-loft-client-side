@@ -163,7 +163,13 @@ The cabin image URLs are loaded from Supabase Storage. The Supabase storage doma
 
 ---
 
-## Author
 
-**Abhiyank Yadav**  
-GitHub: [@abhiyankyadav51](https://github.com/abhiyankyadav51)
+## 📧 **Contact**  
+For any queries, suggestions, or contributions, feel free to reach out:  
+- **Email:** [abhiyankyadav51@gmail.com](abhiyankyadav51@gmail.com)  
+
+---
+
+## 📜 **License**  
+This project is licensed under the [MIT License](LICENSE).  
+
