@@ -12,19 +12,19 @@ A modern full-stack cabin booking website built with **Next.js 14**, **Supabase*
 
 ## Live Demo
 
-**Deployed URL:** [https://the-urban-loft.vercel.app](https://the-urban-loft.vercel.app)
+**Deployed URL:** [https://the-urban-loft-client-side.vercel.app/](https://the-urban-loft-client-side.vercel.app/)
 
 ---
 
-<p align="center">
-  <img src="public/screenshots/home.png" alt="Home Page" width="48%" />
-  <img src="public/screenshots/cabins.png" alt="Cabins Page" width="48%" />
-</p>
+## Screenshots
 
-<p align="center">
-  <img src="public/screenshots/cabin-details.png" alt="Cabin Details Page" width="48%" />
-  <img src="public/screenshots/account.png" alt="Guest Account Page" width="48%" />
-</p>
+| Home Page | Cabins Page |
+|---|---|
+| <img src="public/home.png" alt="Home Page" width="100%" /> | <img src="public/cabins.png" alt="Cabins Page" width="100%" /> |
+
+| Cabin Details Page | Guest Account Page |
+|---|---|
+| <img src="public/cabin-details.png" alt="Cabin Details Page" width="100%" /> | <img src="public/account.png" alt="Guest Account Page" width="100%" /> |
 
 ---
 
